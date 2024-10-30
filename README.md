@@ -6,7 +6,7 @@ O objetivo deste curso é oferecer uma breve introdução ao GitHub. Também for
 
 ## :octocat: Git e GitHub
 
-Git é um **sistema de controle de versão distribuído (VCS)**,  ou seja, uma ferramenta útil para rastrear facilmente mudanças no seu código, colaborar e compartilhar. Com o Git, você pode rastrear as mudanças feitas em seu projeto, mantendo um registro do que foi trabalhado e permitindo reverter para uma versão anterior se necessário. Isso também facilita o trabalho em equipe, onde várias pessoas podem colaborar em um mesmo projeto e unir suas mudanças em uma fonte final!
+Git é um **sistema de controle de versão distribuído (VCS)**, ou seja, uma ferramenta útil para rastrear facilmente mudanças no seu código, colaborar e compartilhar. Com o Git, você pode rastrear as mudanças feitas em seu projeto, mantendo um registro do que foi trabalhado e permitindo reverter para uma versão anterior se necessário. Isso também facilita o trabalho em equipe, onde várias pessoas podem colaborar em um mesmo projeto e unir suas mudanças em uma fonte final!
 
 O GitHub é uma forma de usar o poder do Git online, com uma interface fácil de usar. É amplamente utilizado no mundo do software e além, para colaborar e manter o histórico de projetos.
 
