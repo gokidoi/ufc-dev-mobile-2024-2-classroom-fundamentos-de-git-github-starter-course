@@ -52,8 +52,7 @@ Para saber mais sobre forks, leia ["Fork a repo"](https://docs.github.com/en/git
 
 ### Pull Requests
 
-Ao trabalhar com branches, você pode usar um pull request para informar aos outros sobre as mudanças que deseja fazer e solicitar feedback. Uma vez que o pull request é aberto, você pode discutir e revisar as possíveis mudanças com colaboradores e adicionar mais alterações, se necessário. Você pode adicionar pessoas específicas como revisores do seu pull request, indicando que deseja o feedback deles nas suas mudanças! Quando o pull request estiver pronto, ele pode ser mesclado na branch principal.
-Para saber mais sobre pull requests, leia ["Sobre Pull Requests"](https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+Ao trabalhar com branches, você pode usar um pull request para informar aos outros sobre as mudanças que deseja fazer e solicitar feedback. Uma vez que o pull request é aberto, você pode discutir e revisar as possíveis mudanças com colaboradores e adicionar mais alterações, se necessário. Você pode adicionar pessoas específicas como revisores do seu pull request, indicando que deseja o feedback deles nas suas mudanças! Quando o pull request estiver pronto, ele pode ser mesclado na branch principal. Para saber mais sobre pull requests, leia ["Sobre Pull Requests"](https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 ### Issues (Problemas)
 
