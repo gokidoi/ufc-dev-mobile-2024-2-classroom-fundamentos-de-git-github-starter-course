@@ -99,10 +99,10 @@ Você pode acessar o site do GitHub Explore [em github.com/explore](https://gith
 
 ## 📝 Passos da Tarefa (para quem achou fácil a anterior)
 
-- [ ] Resolver desafios do nível **Sequência Introdutória** de https://learngitbranching.js.org/?locale=pt_BR&NODEMO=
-- [ ] Resolver desafios do nível **Acelerando** de https://learngitbranching.js.org/?locale=pt_BR&NODEMO=
-- [ ] Resolver desafios do nível **Movendo trabalho por aí** de https://learngitbranching.js.org/?locale=pt_BR&NODEMO=
-- [ ] Resolver desafios do nível **Push & Pull -- repositórios remotos no Git!** de https://learngitbranching.js.org/?locale=pt_BR&NODEMO=
+- [ ] Resolver desafios do nível **Sequência Introdutória** de https://learngitbranching.js.org/?locale=pt_BR
+- [ ] Resolver desafios do nível **Acelerando** de https://learngitbranching.js.org/?locale=pt_BR
+- [ ] Resolver desafios do nível **Movendo trabalho por aí** de https://learngitbranching.js.org/?locale=pt_BR
+- [ ] Resolver desafios do nível **Push & Pull -- repositórios remotos no Git!** de https://learngitbranching.js.org/?locale=pt_BR
 
 
 ## 📝 Atividades opcionais
