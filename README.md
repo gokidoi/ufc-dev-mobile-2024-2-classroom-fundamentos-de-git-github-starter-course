@@ -140,3 +140,4 @@ Você pode acessar o site do GitHub Explore [em github.com/explore](https://gith
 `git pull <repositório-remoto>` - baixa as atualizações
 
 `git merge` - mescla as alterações de duas branches
+
